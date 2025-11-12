@@ -6,4 +6,10 @@ import { initGA } from "./lib/analytics";
 // Initialize Google Analytics
 initGA();
 
-createRoot(document.getElementById("root")!).render(<App />);
+// Ensure root element exists before rendering
+const rootElement = document.getElementById("root");
+if (!rootElement) {
+  throw new Error("Root element not found. Make sure index.html has a div with id='root'");
+}
+
+createRoot(rootElement).render(<App />);
