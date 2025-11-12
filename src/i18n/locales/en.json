@@ -1,0 +1,411 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "services": "Services",
+    "certifications": "Certifications",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "I Build Intelligent Digital Experiences.",
+    "subtitle": "Full Stack Developer & Media Buyer Expert — combining technology and strategy to help brands grow.",
+    "viewWork": "View My Work",
+    "hireMe": "Hire Me"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm a Moroccan full stack developer and media buyer, currently CEO & Co-Founder at brandhub.ma and Co-Founder at Multi Brands based in Morocco. I'm passionate about building scalable web apps, AI-powered assistants, and high-converting digital strategies. My mission is to merge technology, automation, and creativity to create measurable business impact."
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "fullstack": {
+      "title": "Full-Stack Development",
+      "level": "Expert Level",
+      "items": ["React.js & Vue.js (Advanced)", "Node.js & Express.js (Expert)", "JavaScript/TypeScript (Advanced)", "Python & Django (Intermediate)", "HTML5/CSS3 & Responsive Design", "RESTful APIs & GraphQL", "Database Design (MongoDB, PostgreSQL)", "Version Control (Git/GitHub)"]
+    },
+    "branding": {
+      "title": "Branding & Design Expert",
+      "level": "Professional Experience",
+      "items": ["Brand Strategy & Identity Development", "Logo Design & Visual Identity", "Brand Guidelines & Style Systems", "Marketing Material Design", "Digital Brand Assets Creation", "Brand Positioning & Messaging", "Client Brand Consultation", "Multi-Brand Portfolio Management"]
+    },
+    "3d": {
+      "title": "3D Modeling & Animation",
+      "level": "Expert Level",
+      "items": ["3D Product Modeling & Visualization", "Character Modeling & Rigging", "Architectural 3D Rendering", "Motion Graphics & Animation", "Texture Design & UV Mapping", "Lighting & Environment Setup", "Render Optimization & Post-Processing", "Interactive 3D Web Integration"]
+    },
+    "ai": {
+      "title": "AI & Machine Learning",
+      "level": "Advanced Specialist",
+      "items": ["Prompt Engineering (GPT-4, Claude)", "Custom AI Model Development", "TensorFlow & Machine Learning", "Natural Language Processing", "Computer Vision Applications", "YOLO Object Detection", "LLM Training & Fine-tuning", "AI Integration & APIs", "Data Science & Analytics", "Predictive Modeling"]
+    },
+    "bi": {
+      "title": "Business Intelligence",
+      "level": "Google Certified",
+      "items": ["Google BI & Data Analytics (Certified)", "Tableau & Power BI", "D3.js & Data Visualization", "Statistical Analysis", "KPI Development & Tracking", "Automated Reporting", "ETL Processes", "Dashboard Design"]
+    },
+    "business": {
+      "title": "Business & Strategy",
+      "level": "Proven Success",
+      "items": ["Startup Founding & Management", "Brand Strategy & Development", "Visual Identity & Logo Design", "Brand Positioning & Messaging", "E-commerce Platform Development", "Digital Marketing & SEO", "Project Management (Agile)", "Client Relationship Management"]
+    },
+    "stats": {
+      "users": "Active Commercial Users",
+      "winner": "Competition Winner",
+      "certified": "Google BI/DA Certified",
+      "expert": "AI Innovation Expert"
+    }
+  },
+  "innovation": {
+    "title": "We Lead the Innovation",
+    "description": "Pioneering cutting-edge solutions with AI, 3D technology, and full-stack development. We transform ideas into immersive digital experiences that push boundaries and set new standards in the industry."
+  },
+  "appsPortfolio": {
+    "title": "Apps I've Built",
+    "subtitle": "Real-world applications serving Moroccan businesses",
+    "loadMore": "Load More",
+    "categories": {
+      "ecommerce": "E-Commerce Solutions",
+      "business": "Business Management",
+      "healthcare": "Healthcare Systems",
+      "education": "Educational Platforms",
+      "realestate": "Real Estate",
+      "hospitality": "Hospitality",
+      "logistics": "Logistics & Delivery",
+      "fintech": "Financial Technology",
+      "ai": "AI & Machine Learning"
+    },
+    "apps": {
+      "ecommerceApp": {
+        "title": "Moroccan E-Commerce Platform",
+        "description": "Full-featured online store with product catalog, inventory management, and seamless checkout experience"
+      },
+      "dashboard": {
+        "title": "Advanced Analytics Dashboard",
+        "description": "Comprehensive business intelligence dashboard with real-time analytics and reporting"
+      },
+      "cafe": {
+        "title": "Coffee Shop Management",
+        "description": "Point-of-sale system with menu management, orders, and customer loyalty features"
+      },
+      "lawyer": {
+        "title": "Law Firm Portal",
+        "description": "Professional legal practice management with case tracking and client appointments"
+      },
+      "doctor": {
+        "title": "Medical Clinic System",
+        "description": "Patient management system with appointments, records, and prescription tracking"
+      },
+      "school": {
+        "title": "Night School Platform",
+        "description": "Complete learning management system with courses, schedules, and student tracking"
+      },
+      "realestate": {
+        "title": "Real Estate Platform",
+        "description": "Property listing and management system with virtual tours, search filters, and agent portal"
+      },
+      "booking": {
+        "title": "Hotel & Restaurant Booking",
+        "description": "Complete hospitality management with room reservations, table bookings, and guest services"
+      },
+      "fitness": {
+        "title": "Fitness & Gym Management",
+        "description": "Member management, class scheduling, workout tracking, and trainer coordination system"
+      },
+      "events": {
+        "title": "Event Management Platform",
+        "description": "Complete event planning solution with venue booking, guest management, and vendor coordination"
+      },
+      "crm": {
+        "title": "CRM Solution",
+        "description": "Customer relationship management system with sales pipeline and analytics"
+      },
+      "project": {
+        "title": "Project Management",
+        "description": "Kanban boards, task tracking, and team collaboration platform"
+      },
+      "hr": {
+        "title": "HR Management",
+        "description": "Employee management, payroll, attendance tracking, and recruitment"
+      },
+      "inventory": {
+        "title": "Inventory System",
+        "description": "Warehouse management with stock tracking and barcode scanning"
+      },
+      "aichat": {
+        "title": "AI Chatbot",
+        "description": "ChatGPT-like conversational AI assistant for customer support"
+      },
+      "aiimage": {
+        "title": "AI Image Generator",
+        "description": "AI-powered image creation and editing platform"
+      },
+      "sales": {
+        "title": "Sales Pipeline",
+        "description": "Deal tracking, revenue forecasting, and sales funnel management"
+      },
+      "support": {
+        "title": "Customer Support",
+        "description": "Ticket management, live chat, and help desk platform"
+      },
+      "workflow": {
+        "title": "Workflow Automation",
+        "description": "Process automation with visual flowchart builder"
+      },
+      "aidoc": {
+        "title": "AI Document Analyzer",
+        "description": "AI-powered document processing and data extraction"
+      },
+      "collaboration": {
+        "title": "Team Collaboration",
+        "description": "Shared workspace with file sharing, chat, and video calls"
+      },
+      "invoice": {
+        "title": "Invoice Management",
+        "description": "Billing, invoicing, and payment tracking system"
+      },
+      "leads": {
+        "title": "Lead Management",
+        "description": "Lead scoring, contact database, and conversion tracking"
+      },
+      "aicontent": {
+        "title": "AI Content Writer",
+        "description": "AI-powered content generation and blog writing assistant"
+      },
+      "analytics": {
+        "title": "Business Analytics",
+        "description": "Data visualization, KPI dashboards, and business intelligence"
+      }
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "brandhub": {
+      "name": "brandhub.ma",
+      "desc": "CEO & Co-Founder - Custom Brand Development Platform"
+    },
+    "multicommerce": {
+      "name": "Multi-Brand E-commerce Platform",
+      "desc": "Scalable platform with custom themes for multiple brands"
+    },
+    "tussna": {
+      "name": "Tussna",
+      "desc": "Moroccan bio cosmetics eCommerce brand with AI integration"
+    },
+    "aiponics": {
+      "name": "AI.Ponics",
+      "desc": "Agritech hydroponic system powered by AI"
+    },
+    "yahyagent": {
+      "name": "yahyAgent",
+      "desc": "Multilingual AI WhatsApp sales assistant"
+    },
+    "saas": {
+      "name": "Dental SaaS Dashboard",
+      "desc": "Complete management system for dental centers"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "webApp": {
+      "title": "Web App Development",
+      "desc": "Custom web applications built with modern technologies"
+    },
+    "aiAuto": {
+      "title": "AI Automation & WhatsApp Bots",
+      "desc": "Intelligent automation solutions for business growth"
+    },
+    "mediaBuying": {
+      "title": "Media Buying",
+      "desc": "Strategic Meta & Google Ads campaigns"
+    },
+    "saas": {
+      "title": "SaaS Consulting & MVP Development",
+      "desc": "From idea to production-ready product"
+    }
+  },
+  "certifications": {
+    "title": "Certifications & Achievements",
+    "googleBI1": {
+      "title": "Google Business Intelligence Certificate",
+      "issuer": "Google via Coursera",
+      "date": "September 2025",
+      "description": "Completed comprehensive professional certification covering Business Intelligence foundations, data models & pipelines, and dashboard reporting. Demonstrated competency in transforming data into actionable insights and building stakeholder-focused dashboards."
+    },
+    "googleBI2": {
+      "title": "Google Business Intelligence Certificate",
+      "issuer": "Google via Coursera",
+      "date": "September 2025",
+      "description": "Advanced 4-course certification including BI foundations, data insights, dashboards & reports, and AI-accelerated job search techniques. Expertise in creating data visualizations and business intelligence processes."
+    },
+    "marketingDigital": {
+      "title": "Digital Marketing & Branding Certification",
+      "issuer": "L'Académie des Experts",
+      "date": "February 2025",
+      "description": "Completed intensive 15-hour professional training in Digital Marketing and Branding strategies. Gained expertise in modern marketing techniques, brand development, and digital campaign execution."
+    }
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "quote1": "Yahya delivered beyond expectations. His SaaS knowledge and clean design transformed our business.",
+    "author1": "Fatima Zahra",
+    "role1": "CEO, Casablanca Tech Startup",
+    "quote2": "Professional, creative, and technically sharp. A pleasure to work with.",
+    "author2": "Ahmed Benali",
+    "role2": "Founder, Marrakech Digital Agency",
+    "quote3": "Built our e-commerce platform in record time. Sales increased 300% in 3 months!",
+    "author3": "Rachid El Amrani",
+    "role3": "Owner, Rabat Fashion Store",
+    "quote4": "The AI WhatsApp bot he created handles 80% of our customer inquiries automatically.",
+    "author4": "Samira Khalil",
+    "role4": "Manager, Tanger Real Estate",
+    "quote5": "Exceptional work on our dental clinic management system. Everything runs smoothly now.",
+    "author5": "Dr. Youssef Bennani",
+    "role5": "Dentist, Fes Medical Center",
+    "quote6": "His media buying expertise doubled our ROI. Highly recommend!",
+    "author6": "Karim Idrissi",
+    "role6": "Marketing Director, Agadir Hotel",
+    "quote7": "Created a stunning 3D product showcase for our jewelry brand. Sales conversion improved significantly.",
+    "author7": "Laila Mansouri",
+    "role7": "Owner, Casablanca Jewelry",
+    "quote8": "The booking system he developed handles our restaurant and hotel reservations perfectly.",
+    "author8": "Hassan Tazi",
+    "role8": "Manager, Essaouira Resort",
+    "quote9": "Outstanding developer! Our logistics platform now manages 500+ daily deliveries efficiently.",
+    "author9": "Omar Chraibi",
+    "role9": "CEO, Kenitra Logistics",
+    "quote10": "Built our fintech app with top-notch security. Users love the interface!",
+    "author10": "Nadia Berrada",
+    "role10": "CTO, Casablanca FinTech",
+    "quote11": "The fitness app he created for our gym brought in 200 new members in the first month.",
+    "author11": "Amine Tounsi",
+    "role11": "Owner, Tangier Fitness Center",
+    "quote12": "Transformed our school management system. Teachers and parents love how easy it is to use.",
+    "author12": "Hafida Alami",
+    "role12": "Principal, Rabat International School",
+    "quote13": "His work on our event platform was flawless. We manage 50+ events monthly now.",
+    "author13": "Mehdi Fassi",
+    "role13": "Director, Marrakech Events",
+    "quote14": "The dashboard he built gives us real-time insights into our entire operation.",
+    "author14": "Salma Benjelloun",
+    "role14": "Operations Manager, Casablanca Distribution",
+    "quote15": "Created an amazing brand identity and website for our startup. Professional from start to finish.",
+    "author15": "Ismail Boukhari",
+    "role15": "Founder, Oujda Tech Solutions",
+    "quote16": "His AI automation saved us 40 hours per week. Game changer for our business!",
+    "author16": "Zineb Lemrani",
+    "role16": "CEO, Meknes Consulting",
+    "quote17": "Best developer we've worked with. Fast, reliable, and produces quality code.",
+    "author17": "Tarik Ouazzani",
+    "role17": "CTO, Rabat Software House",
+    "quote18": "The 3D modeling he did for our architecture firm impressed all our clients.",
+    "author18": "Amina Sabir",
+    "role18": "Architect, Casablanca Design Studio",
+    "quote19": "Brilliant strategist! His marketing campaigns consistently deliver exceptional results.",
+    "author19": "Driss Sefrioui",
+    "role19": "Brand Manager, Agadir Cosmetics"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "whatsapp": "WhatsApp Me"
+  },
+  "blog": {
+    "title": "Blog & Insights",
+    "subtitle": "Thoughts on technology, business strategy, and innovation",
+    "readMore": "Read More",
+    "categories": {
+      "ai": "AI & Automation",
+      "development": "Development",
+      "business": "Business Strategy",
+      "design": "Design & Branding"
+    },
+    "posts": {
+      "aiWhatsapp": {
+        "title": "Building AI-Powered WhatsApp Sales Assistants",
+        "excerpt": "How we developed multilingual AI agents that increased conversion rates by 200% for Moroccan businesses using GPT-4 and custom training.",
+        "date": "Jan 15, 2025"
+      },
+      "saasArchitecture": {
+        "title": "Scaling SaaS Applications: Architecture Best Practices",
+        "excerpt": "Deep dive into building scalable multi-tenant SaaS platforms that serve thousands of users without compromising performance or security.",
+        "date": "Jan 10, 2025"
+      },
+      "mediaBuying": {
+        "title": "ROI-Focused Media Buying: Meta Ads Strategy",
+        "excerpt": "Learn the proven framework we use to achieve 5x ROAS on Meta Ads campaigns through data-driven optimization and creative testing.",
+        "date": "Jan 5, 2025"
+      },
+      "brandIdentity": {
+        "title": "Creating Memorable Brand Identities in 2025",
+        "excerpt": "The complete process of developing strong visual identities that resonate with modern audiences and stand out in crowded markets.",
+        "date": "Dec 28, 2024"
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "subtitle": "Real results from real projects — explore how we solve complex challenges",
+    "challengeLabel": "Challenge",
+    "solutionLabel": "Solution",
+    "resultsLabel": "Results",
+    "studies": {
+      "ecommerce": {
+        "title": "E-Commerce Platform Transformation",
+        "client": "Moroccan Fashion Retailer",
+        "industry": "E-Commerce",
+        "description": "Complete digital transformation of a traditional retail business into a thriving online marketplace.",
+        "challenge": "The client had zero online presence and needed to compete with established e-commerce brands. They required a full-stack solution with inventory management, payment processing, and marketing automation.",
+        "solution": "Built a custom React-based e-commerce platform with Node.js backend, integrated with local payment gateways, and implemented AI-powered product recommendations. Added automated email marketing and social media integration.",
+        "results": {
+          "sales": "+250%",
+          "salesLabel": "Sales Growth",
+          "users": "15K+",
+          "usersLabel": "Active Users",
+          "conversion": "3.8%",
+          "conversionLabel": "Conversion Rate"
+        }
+      },
+      "healthcare": {
+        "title": "Medical Practice Management System",
+        "client": "Private Dental Center",
+        "industry": "Healthcare",
+        "description": "Comprehensive SaaS solution for managing multiple dental clinic locations with centralized dashboard.",
+        "challenge": "Manual appointment scheduling, paper-based patient records, and no visibility across multiple clinic locations. Staff spent hours on administrative tasks instead of patient care.",
+        "solution": "Developed a cloud-based dental management system with real-time appointment scheduling, digital patient records, automated reminders, and business intelligence dashboards for management insights.",
+        "results": {
+          "patients": "5K+",
+          "patientsLabel": "Patients Managed",
+          "efficiency": "+60%",
+          "efficiencyLabel": "Staff Efficiency",
+          "costs": "-40%",
+          "costsLabel": "Admin Costs"
+        }
+      },
+      "aibot": {
+        "title": "AI WhatsApp Sales Assistant",
+        "client": "Real Estate Agency",
+        "industry": "PropTech",
+        "description": "Multilingual AI-powered WhatsApp bot for 24/7 property inquiries and lead qualification.",
+        "challenge": "Missing leads after business hours, difficulty managing Arabic/French/English inquiries, and sales team overwhelmed with basic questions instead of closing deals.",
+        "solution": "Integrated GPT-4 powered chatbot with WhatsApp Business API, trained on property database, capable of answering questions in 3 languages, scheduling viewings, and qualifying leads automatically.",
+        "results": {
+          "response": "24/7",
+          "responseLabel": "Instant Response",
+          "leads": "+180%",
+          "leadsLabel": "Qualified Leads",
+          "automation": "85%",
+          "automationLabel": "Queries Automated"
+        }
+      }
+    }
+  },
+  "footer": {
+    "tagline": "© 2025 Yahya Houssini — Built with passion and precision."
+  }
+}

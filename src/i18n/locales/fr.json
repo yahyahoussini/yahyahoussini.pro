@@ -1,0 +1,411 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "services": "Services",
+    "certifications": "Certifications",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Je Construis des Expériences Numériques Intelligentes.",
+    "subtitle": "Développeur Full Stack & Expert Media Buyer — alliant technologie et stratégie pour aider les marques à croître.",
+    "viewWork": "Voir Mon Travail",
+    "hireMe": "Me Recruter"
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "bio": "Je suis un développeur full stack marocain et media buyer, actuellement PDG et Co-Fondateur de brandhub.ma et Co-Fondateur de Multi Brands basé au Maroc. Je suis passionné par la création d'applications web évolutives, d'assistants alimentés par l'IA et de stratégies numériques à forte conversion. Ma mission est de fusionner technologie, automatisation et créativité pour créer un impact commercial mesurable."
+  },
+  "skills": {
+    "title": "Compétences & Expertise",
+    "fullstack": {
+      "title": "Développement Full-Stack",
+      "level": "Niveau Expert",
+      "items": ["React.js & Vue.js (Avancé)", "Node.js & Express.js (Expert)", "JavaScript/TypeScript (Avancé)", "Python & Django (Intermédiaire)", "HTML5/CSS3 & Design Responsive", "APIs RESTful & GraphQL", "Conception de Base de Données (MongoDB, PostgreSQL)", "Contrôle de Version (Git/GitHub)"]
+    },
+    "branding": {
+      "title": "Expert en Branding & Design",
+      "level": "Expérience Professionnelle",
+      "items": ["Stratégie de Marque & Développement d'Identité", "Design de Logo & Identité Visuelle", "Directives de Marque & Systèmes de Style", "Design de Matériel Marketing", "Création d'Actifs de Marque Numériques", "Positionnement & Messaging de Marque", "Consultation de Marque Client", "Gestion de Portfolio Multi-Marques"]
+    },
+    "3d": {
+      "title": "Modélisation & Animation 3D",
+      "level": "Niveau Expert",
+      "items": ["Modélisation & Visualisation de Produits 3D", "Modélisation & Rigging de Personnages", "Rendu 3D Architectural", "Motion Graphics & Animation", "Design de Texture & Mapping UV", "Configuration d'Éclairage & Environnement", "Optimisation de Rendu & Post-Traitement", "Intégration 3D Web Interactive"]
+    },
+    "ai": {
+      "title": "IA & Machine Learning",
+      "level": "Spécialiste Avancé",
+      "items": ["Ingénierie de Prompts (GPT-4, Claude)", "Développement de Modèles IA Personnalisés", "TensorFlow & Machine Learning", "Traitement du Langage Naturel", "Applications de Vision par Ordinateur", "Détection d'Objets YOLO", "Formation & Ajustement de LLM", "Intégration IA & APIs", "Science des Données & Analytique", "Modélisation Prédictive"]
+    },
+    "bi": {
+      "title": "Business Intelligence",
+      "level": "Certifié Google",
+      "items": ["Google BI & Data Analytics (Certifié)", "Tableau & Power BI", "D3.js & Visualisation de Données", "Analyse Statistique", "Développement & Suivi de KPI", "Rapports Automatisés", "Processus ETL", "Design de Tableaux de Bord"]
+    },
+    "business": {
+      "title": "Business & Stratégie",
+      "level": "Succès Prouvé",
+      "items": ["Fondation & Gestion de Startup", "Stratégie de Marque & Développement", "Identité Visuelle & Design de Logo", "Positionnement & Messaging de Marque", "Développement de Plateforme E-commerce", "Marketing Digital & SEO", "Gestion de Projet (Agile)", "Gestion de Relation Client"]
+    },
+    "stats": {
+      "users": "Utilisateurs Commerciaux Actifs",
+      "winner": "Gagnant de Compétition",
+      "certified": "Certifié Google BI/DA",
+      "expert": "Expert en Innovation IA"
+    }
+  },
+  "innovation": {
+    "title": "Nous Menons l'Innovation",
+    "description": "Pionnier de solutions de pointe avec l'IA, la technologie 3D et le développement full-stack. Nous transformons les idées en expériences numériques immersives qui repoussent les limites et établissent de nouvelles normes dans l'industrie."
+  },
+  "appsPortfolio": {
+    "title": "Applications que j'ai Créées",
+    "subtitle": "Applications réelles au service des entreprises marocaines",
+    "loadMore": "Charger Plus",
+    "categories": {
+      "ecommerce": "Solutions E-Commerce",
+      "business": "Gestion d'Entreprise",
+      "healthcare": "Systèmes de Santé",
+      "education": "Plateformes Éducatives",
+      "realestate": "Immobilier",
+      "hospitality": "Hôtellerie",
+      "logistics": "Logistique & Livraison",
+      "fintech": "Technologie Financière",
+      "ai": "IA & Apprentissage Automatique"
+    },
+    "apps": {
+      "ecommerceApp": {
+        "title": "Plateforme E-Commerce Marocaine",
+        "description": "Boutique en ligne complète avec catalogue de produits, gestion des stocks et paiement fluide"
+      },
+      "dashboard": {
+        "title": "Tableau de Bord Analytique Avancé",
+        "description": "Tableau de bord business intelligence complet avec analyses et rapports en temps réel"
+      },
+      "cafe": {
+        "title": "Gestion de Café",
+        "description": "Système de point de vente avec gestion de menu, commandes et fidélité client"
+      },
+      "lawyer": {
+        "title": "Portail Cabinet d'Avocat",
+        "description": "Gestion professionnelle de cabinet juridique avec suivi des dossiers et rendez-vous clients"
+      },
+      "doctor": {
+        "title": "Système de Clinique Médicale",
+        "description": "Système de gestion des patients avec rendez-vous, dossiers et suivi des prescriptions"
+      },
+      "school": {
+        "title": "Plateforme École du Soir",
+        "description": "Système de gestion de l'apprentissage complet avec cours, horaires et suivi des étudiants"
+      },
+      "realestate": {
+        "title": "Plateforme Immobilière",
+        "description": "Système de gestion immobilière avec visites virtuelles, filtres de recherche et portail agent"
+      },
+      "booking": {
+        "title": "Réservation Hôtel & Restaurant",
+        "description": "Gestion hôtelière complète avec réservations de chambres, tables et services clients"
+      },
+      "fitness": {
+        "title": "Gestion Fitness & Gym",
+        "description": "Gestion des membres, planification des cours, suivi d'entraînement et coordination des entraîneurs"
+      },
+      "events": {
+        "title": "Plateforme de Gestion d'Événements",
+        "description": "Solution complète de planification d'événements avec réservation de lieu et coordination"
+      },
+      "crm": {
+        "title": "Solution CRM",
+        "description": "Système de gestion de la relation client avec pipeline de ventes et analyses"
+      },
+      "project": {
+        "title": "Gestion de Projets",
+        "description": "Tableaux Kanban, suivi des tâches et plateforme de collaboration d'équipe"
+      },
+      "hr": {
+        "title": "Gestion RH",
+        "description": "Gestion des employés, paie, suivi des présences et recrutement"
+      },
+      "inventory": {
+        "title": "Système d'Inventaire",
+        "description": "Gestion d'entrepôt avec suivi des stocks et scan de codes-barres"
+      },
+      "aichat": {
+        "title": "Chatbot IA",
+        "description": "Assistant IA conversationnel type ChatGPT pour le support client"
+      },
+      "aiimage": {
+        "title": "Générateur d'Images IA",
+        "description": "Plateforme de création et d'édition d'images par IA"
+      },
+      "sales": {
+        "title": "Pipeline de Ventes",
+        "description": "Suivi des affaires, prévisions de revenus et gestion du funnel de vente"
+      },
+      "support": {
+        "title": "Support Client",
+        "description": "Gestion des tickets, chat en direct et plateforme d'assistance"
+      },
+      "workflow": {
+        "title": "Automatisation des Workflows",
+        "description": "Automatisation des processus avec constructeur visuel de diagrammes"
+      },
+      "aidoc": {
+        "title": "Analyseur de Documents IA",
+        "description": "Traitement de documents et extraction de données par IA"
+      },
+      "collaboration": {
+        "title": "Collaboration d'Équipe",
+        "description": "Espace de travail partagé avec partage de fichiers, chat et appels vidéo"
+      },
+      "invoice": {
+        "title": "Gestion de Factures",
+        "description": "Système de facturation, facturation et suivi des paiements"
+      },
+      "leads": {
+        "title": "Gestion de Leads",
+        "description": "Scoring de leads, base de contacts et suivi des conversions"
+      },
+      "aicontent": {
+        "title": "Rédacteur de Contenu IA",
+        "description": "Génération de contenu et assistant d'écriture de blog par IA"
+      },
+      "analytics": {
+        "title": "Analyse d'Affaires",
+        "description": "Visualisation de données, tableaux de bord KPI et intelligence d'affaires"
+      }
+    }
+  },
+  "projects": {
+    "title": "Projets Phares",
+    "brandhub": {
+      "name": "brandhub.ma",
+      "desc": "PDG & Co-Fondateur - Plateforme de Développement de Marques Personnalisées"
+    },
+    "multicommerce": {
+      "name": "Plateforme E-commerce Multi-Marques",
+      "desc": "Plateforme évolutive avec thèmes personnalisés pour plusieurs marques"
+    },
+    "tussna": {
+      "name": "Tussna",
+      "desc": "Marque marocaine de cosmétiques bio avec intégration IA"
+    },
+    "aiponics": {
+      "name": "AI.Ponics",
+      "desc": "Système hydroponique agritech alimenté par l'IA"
+    },
+    "yahyagent": {
+      "name": "yahyAgent",
+      "desc": "Assistant de vente IA multilingue WhatsApp"
+    },
+    "saas": {
+      "name": "Dashboard SaaS Dentaire",
+      "desc": "Système de gestion complet pour centres dentaires"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "webApp": {
+      "title": "Développement d'Applications Web",
+      "desc": "Applications web sur mesure avec technologies modernes"
+    },
+    "aiAuto": {
+      "title": "Automatisation IA & Bots WhatsApp",
+      "desc": "Solutions d'automatisation intelligente pour la croissance"
+    },
+    "mediaBuying": {
+      "title": "Achat Média",
+      "desc": "Campagnes stratégiques Meta & Google Ads"
+    },
+    "saas": {
+      "title": "Conseil SaaS & Développement MVP",
+      "desc": "De l'idée au produit prêt pour la production"
+    }
+  },
+  "certifications": {
+    "title": "Certifications & Réalisations",
+    "googleBI1": {
+      "title": "Certificat Google Business Intelligence",
+      "issuer": "Google via Coursera",
+      "date": "Septembre 2025",
+      "description": "Certification professionnelle complète couvrant les fondamentaux de la Business Intelligence, les modèles et pipelines de données, et les rapports de tableaux de bord. Compétence démontrée dans la transformation de données en insights actionnables."
+    },
+    "googleBI2": {
+      "title": "Certificat Google Business Intelligence",
+      "issuer": "Google via Coursera",
+      "date": "Septembre 2025",
+      "description": "Certification avancée de 4 cours incluant les fondamentaux BI, insights de données, tableaux de bord et rapports, et techniques de recherche d'emploi accélérées par l'IA. Expertise en visualisation de données et processus d'intelligence d'affaires."
+    },
+    "marketingDigital": {
+      "title": "Certification Marketing Digital & Branding",
+      "issuer": "L'Académie des Experts",
+      "date": "Février 2025",
+      "description": "Formation professionnelle intensive de 15 heures en Marketing Digital et stratégies de Branding. Expertise acquise en techniques marketing modernes, développement de marque et exécution de campagnes digitales."
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages Clients",
+    "quote1": "Yahya a dépassé les attentes. Sa connaissance SaaS et son design épuré ont transformé notre entreprise.",
+    "author1": "Fatima Zahra",
+    "role1": "PDG, Startup Tech Casablanca",
+    "quote2": "Professionnel, créatif et techniquement pointu. Un plaisir de travailler avec lui.",
+    "author2": "Ahmed Benali",
+    "role2": "Fondateur, Agence Digitale Marrakech",
+    "quote3": "A construit notre plateforme e-commerce en un temps record. Les ventes ont augmenté de 300% en 3 mois!",
+    "author3": "Rachid El Amrani",
+    "role3": "Propriétaire, Boutique Mode Rabat",
+    "quote4": "Le bot WhatsApp IA qu'il a créé gère 80% de nos demandes clients automatiquement.",
+    "author4": "Samira Khalil",
+    "role4": "Directrice, Immobilier Tanger",
+    "quote5": "Travail exceptionnel sur notre système de gestion de clinique dentaire. Tout fonctionne parfaitement maintenant.",
+    "author5": "Dr. Youssef Bennani",
+    "role5": "Dentiste, Centre Médical Fès",
+    "quote6": "Son expertise en achat média a doublé notre ROI. Hautement recommandé!",
+    "author6": "Karim Idrissi",
+    "role6": "Directeur Marketing, Hôtel Agadir",
+    "quote7": "A créé une vitrine 3D époustouflante pour notre marque de bijoux. La conversion des ventes s'est considérablement améliorée.",
+    "author7": "Laila Mansouri",
+    "role7": "Propriétaire, Bijouterie Casablanca",
+    "quote8": "Le système de réservation qu'il a développé gère parfaitement nos réservations de restaurant et d'hôtel.",
+    "author8": "Hassan Tazi",
+    "role8": "Directeur, Resort Essaouira",
+    "quote9": "Développeur exceptionnel! Notre plateforme logistique gère maintenant 500+ livraisons quotidiennes efficacement.",
+    "author9": "Omar Chraibi",
+    "role9": "PDG, Logistique Kenitra",
+    "quote10": "A construit notre application fintech avec une sécurité de premier ordre. Les utilisateurs adorent l'interface!",
+    "author10": "Nadia Berrada",
+    "role10": "CTO, FinTech Casablanca",
+    "quote11": "L'application fitness qu'il a créée pour notre salle de sport a attiré 200 nouveaux membres le premier mois.",
+    "author11": "Amine Tounsi",
+    "role11": "Propriétaire, Centre Fitness Tanger",
+    "quote12": "A transformé notre système de gestion scolaire. Les enseignants et parents adorent sa facilité d'utilisation.",
+    "author12": "Hafida Alami",
+    "role12": "Directrice, École Internationale Rabat",
+    "quote13": "Son travail sur notre plateforme événementielle était impeccable. Nous gérons maintenant 50+ événements mensuels.",
+    "author13": "Mehdi Fassi",
+    "role13": "Directeur, Événements Marrakech",
+    "quote14": "Le tableau de bord qu'il a construit nous donne des insights en temps réel sur toute notre opération.",
+    "author14": "Salma Benjelloun",
+    "role14": "Responsable Opérations, Distribution Casablanca",
+    "quote15": "A créé une identité de marque et un site web extraordinaires pour notre startup. Professionnel du début à la fin.",
+    "author15": "Ismail Boukhari",
+    "role15": "Fondateur, Solutions Tech Oujda",
+    "quote16": "Son automatisation IA nous a fait économiser 40 heures par semaine. Révolutionnaire pour notre entreprise!",
+    "author16": "Zineb Lemrani",
+    "role16": "PDG, Consulting Meknès",
+    "quote17": "Meilleur développeur avec qui nous avons travaillé. Rapide, fiable et produit du code de qualité.",
+    "author17": "Tarik Ouazzani",
+    "role17": "CTO, Maison Logicielle Rabat",
+    "quote18": "La modélisation 3D qu'il a faite pour notre cabinet d'architecture a impressionné tous nos clients.",
+    "author18": "Amina Sabir",
+    "role18": "Architecte, Studio Design Casablanca",
+    "quote19": "Stratège brillant! Ses campagnes marketing offrent systématiquement des résultats exceptionnels.",
+    "author19": "Driss Sefrioui",
+    "role19": "Directeur Marque, Cosmétiques Agadir"
+  },
+  "contact": {
+    "title": "Travaillons Ensemble",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le Message",
+    "whatsapp": "WhatsApp"
+  },
+  "blog": {
+    "title": "Blog & Perspectives",
+    "subtitle": "Réflexions sur la technologie, la stratégie d'entreprise et l'innovation",
+    "readMore": "Lire Plus",
+    "categories": {
+      "ai": "IA & Automatisation",
+      "development": "Développement",
+      "business": "Stratégie d'Entreprise",
+      "design": "Design & Branding"
+    },
+    "posts": {
+      "aiWhatsapp": {
+        "title": "Créer des Assistants de Vente WhatsApp IA",
+        "excerpt": "Comment nous avons développé des agents IA multilingues qui ont augmenté les taux de conversion de 200% pour les entreprises marocaines avec GPT-4.",
+        "date": "15 Jan 2025"
+      },
+      "saasArchitecture": {
+        "title": "Mise à l'Échelle d'Applications SaaS: Meilleures Pratiques",
+        "excerpt": "Plongée dans la construction de plateformes SaaS multi-tenants évolutives servant des milliers d'utilisateurs sans compromettre performance ou sécurité.",
+        "date": "10 Jan 2025"
+      },
+      "mediaBuying": {
+        "title": "Achat Média axé ROI: Stratégie Meta Ads",
+        "excerpt": "Apprenez le cadre éprouvé pour atteindre 5x ROAS sur les campagnes Meta Ads via optimisation basée sur les données et tests créatifs.",
+        "date": "5 Jan 2025"
+      },
+      "brandIdentity": {
+        "title": "Créer des Identités de Marque Mémorables en 2025",
+        "excerpt": "Le processus complet de développement d'identités visuelles fortes qui résonnent avec les audiences modernes.",
+        "date": "28 Déc 2024"
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Études de Cas",
+    "subtitle": "Résultats réels de projets réels — découvrez comment nous résolvons des défis complexes",
+    "challengeLabel": "Défi",
+    "solutionLabel": "Solution",
+    "resultsLabel": "Résultats",
+    "studies": {
+      "ecommerce": {
+        "title": "Transformation Plateforme E-Commerce",
+        "client": "Détaillant de Mode Marocain",
+        "industry": "E-Commerce",
+        "description": "Transformation numérique complète d'une entreprise de vente au détail traditionnelle en un marché en ligne prospère.",
+        "challenge": "Le client n'avait aucune présence en ligne et devait concurrencer des marques e-commerce établies. Solution complète nécessaire avec gestion des stocks, traitement des paiements et automatisation marketing.",
+        "solution": "Création d'une plateforme e-commerce React personnalisée avec backend Node.js, intégrée aux passerelles de paiement locales, recommandations de produits IA, email marketing automatisé et intégration réseaux sociaux.",
+        "results": {
+          "sales": "+250%",
+          "salesLabel": "Croissance des Ventes",
+          "users": "15K+",
+          "usersLabel": "Utilisateurs Actifs",
+          "conversion": "3.8%",
+          "conversionLabel": "Taux de Conversion"
+        }
+      },
+      "healthcare": {
+        "title": "Système de Gestion de Cabinet Médical",
+        "client": "Centre Dentaire Privé",
+        "industry": "Santé",
+        "description": "Solution SaaS complète pour gérer plusieurs cliniques dentaires avec tableau de bord centralisé.",
+        "challenge": "Planification manuelle des rendez-vous, dossiers patients papier, aucune visibilité entre les cliniques. Personnel passait des heures sur tâches administratives.",
+        "solution": "Développement d'un système de gestion dentaire cloud avec planification temps réel, dossiers patients numériques, rappels automatisés et tableaux de bord BI.",
+        "results": {
+          "patients": "5K+",
+          "patientsLabel": "Patients Gérés",
+          "efficiency": "+60%",
+          "efficiencyLabel": "Efficacité Personnel",
+          "costs": "-40%",
+          "costsLabel": "Coûts Admin"
+        }
+      },
+      "aibot": {
+        "title": "Assistant de Vente WhatsApp IA",
+        "client": "Agence Immobilière",
+        "industry": "PropTech",
+        "description": "Bot WhatsApp IA multilingue pour demandes immobilières et qualification de prospects 24/7.",
+        "challenge": "Prospects perdus après les heures d'ouverture, difficulté à gérer demandes arabe/français/anglais, équipe submergée par questions basiques.",
+        "solution": "Chatbot GPT-4 intégré à l'API WhatsApp Business, formé sur base de données immobilières, capable de répondre en 3 langues, planifier visites et qualifier prospects.",
+        "results": {
+          "response": "24/7",
+          "responseLabel": "Réponse Instantanée",
+          "leads": "+180%",
+          "leadsLabel": "Prospects Qualifiés",
+          "automation": "85%",
+          "automationLabel": "Requêtes Automatisées"
+        }
+      }
+    }
+  },
+  "footer": {
+    "tagline": "© 2025 Yahya Houssini — Construit avec passion et précision."
+  }
+}
